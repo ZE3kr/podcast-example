@@ -6,8 +6,8 @@ language: zh-cn
 defaultFileType: audio/mpeg
 explicit: no
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
-baseurl: ""
-url: "http://example.com"
+baseurl: "/podcast-example"
+url: "http://ze3kr.github.io"
 twitter_username: jekyllrb
 github_username:  jekyll
 
