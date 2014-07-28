@@ -1,6 +1,6 @@
-# Site settings
-title: 制作播客 (Podcast) - 帮助与实践
-email: your-email@domain.com
+# 网页设置 (请务必仔细修改)
+title: 制作播客 (Podcast) - 帮助与实践 (事例)
+email: your-email@example.com
 author: Your name
 language: zh-cn
 defaultFileType: audio/mpeg
@@ -11,6 +11,9 @@ url: "http://git.ze3kr.com"
 twitter_username: ze3kr
 github_username:  ZE3kr/podcast-example
 
-# Build settings
+# 屏蔽设置 (在提交iTunes时，请将此值修改为no。如果值为Yes，则播客不会出现在iTunes)
+blockitunes: yes
+
+# 建站设置
 markdown: kramdown
 permalink: pretty
