@@ -1,13 +1,15 @@
 # 网页设置 (请务必仔细修改)
-title: 制作播客 (Podcast) - 帮助与实践 (事例)
-email: your-email@example.com
-author: Your name
+title: 制作播客 (Podcast) - 帮助与实践
 language: zh-cn
 defaultFileType: audio/mpeg
 explicit: no
 description: "从文件服务器、RSS Feed生成与存放、域名解析到Hello World、网页制作、发布到iTunes。开源的项目，向您介绍如何制作Podcast。"
 baseurl: "/podcast-example"
 url: "http://git.ze3kr.com"
+
+# 个人信息 (请务必仔细修改email和author的值，这会影响你的播客发布到iTunes后的界面显示，请填写能接收邮件的邮箱，以方便接收iTunes发来的邮件)
+email: podcast@ze3kr.com
+author: yourname
 twitter_username: ze3kr
 github_username:  ZE3kr/podcast-example
 
