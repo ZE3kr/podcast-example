@@ -14,3 +14,7 @@ permalink: /about/
 [Fork这个存放处](https://github.com/ZE3kr/podcast-example/fork) - [添加一个Markdown文章并标记音频链接]() - 然后Commit，你的播客就更新了一集。
 
 ### [所有帮助文档/介绍请访问此存放处的Wiki](https://github.com/ZE3kr/podcast-example/wiki)
+
+此项目永久免费，请考虑赞助我以提供更好的带宽和内容。
+Paypal: admin@ze3kr.com
+支付宝: 3math@ze3kr.com
