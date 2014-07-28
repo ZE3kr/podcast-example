@@ -1,15 +1,15 @@
 # Site settings
-title: Your awesome title
+title: 制作播客 (Podcast) - 帮助与实践
 email: your-email@domain.com
 author: Your name
 language: zh-cn
 defaultFileType: audio/mpeg
 explicit: no
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+description: "从文件服务器、RSS Feed生成与存放、域名解析到Hello World、网页制作、发布到iTunes。开源的项目，向您介绍如何制作Podcast。"
 baseurl: "/podcast-example"
 url: "http://git.ze3kr.com"
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: ze3kr
+github_username:  ZE3kr/podcast-example
 
 # Build settings
 markdown: kramdown
