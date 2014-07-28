@@ -3,6 +3,13 @@ layout: page
 title: 介绍
 permalink: /about/
 ---
+此项目**永久免费**，请考虑赞助我以提供更好的带宽和内容。
+
+Paypal: **_admin@ze3kr.com_**
+
+支付宝: **_3math@ze3kr.com_**
+
+***
 
 制作播客 (Podcast) - 帮助与实践
 ===============
